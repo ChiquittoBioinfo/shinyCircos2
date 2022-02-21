@@ -1,0 +1,5 @@
+/input/*
+/tmp/
+
+!/input/*.xz
+!/input/*.xz.*
